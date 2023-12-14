@@ -1,4 +1,6 @@
 sample 
 second commit
 second commit
+<<<<<<< HEAD
 practical
+practice
